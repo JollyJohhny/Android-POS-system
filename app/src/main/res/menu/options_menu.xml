@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/AddProduct"
+        android:title="Add Product" />
+    <item
+        android:id="@+id/lesser"
+        android:title="Products Low" />
+    <item
+        android:id="@+id/viewcart"
+        android:title="View Cart" />
+    <item
+        android:id="@+id/previousBills"
+        android:title="Previous Bills" />
+    <item
+        android:id="@+id/Logout"
+        android:title="Logout" />
+</menu>
